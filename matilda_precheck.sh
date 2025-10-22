@@ -1,4 +1,3 @@
-#!/usr/bin/env bash
 #
 # matilda_installer.sh — System pre-installation validator and installer
 #
@@ -958,3 +957,4 @@ main() {
 
 # Execute main function
 main "$@"
+
